@@ -1,18 +1,14 @@
-### Introduction to Imrabo
+# Introduction to Imrabo
 
----
+### **Project Name:** Imrabo
 
-**Project Name:** Imrabo
+### **Type:** Final Year Project
 
-**Type:** Final Year Project
+### **Department:** Electronics and Telecommunication (EXTC)
 
-**Department:** Electronics and Telecommunication (EXTC)
+### **Student Groups:** 5
 
-**Student Groups:** 5
-
----
-
-**Project Overview:**
+### Project Overview:
 
 Imrabo is an innovative final year project created by a dedicated team of Electronics and Telecommunication (EXTC) students. This project, involving five student groups, aims to revolutionize the way we interact with technology by integrating advanced features that cater to modern needs.
 
