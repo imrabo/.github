@@ -2,7 +2,7 @@
 
 ### **Project Name:** Imrabo
 
-### **Type:** Final Year Project
+### **College:** Sipna College Of Engineering and Technology
 
 ### **Department:** Electronics and Telecommunication (EXTC)
 
@@ -26,37 +26,37 @@ To create a groundbreaking project that not only meets academic standards but al
 
 **Mentor Details:**
 
-**Name:** Professor Anjali Deshmukh  
+**Name:** Dr. Nilesh N. Kasat  
 **Role:** Project Mentor  
-**Email:** anjali.deshmukh@university.edu  
+**Email:** null 
 **LinkedIn:** [Professor Anjali Deshmukh](https://linkedin.com/in/anjali-deshmukh)
 
 ---
 
 ### Team Members:
-1. **Group 1:**
-   - **Name:** [Student 1]
-   - **Role:** [Role]
+1. **Student 1:**
+   - **Name:** Mr. Prathanesh More
+   - **Role:** Team Leader
    - **Social Media:** [Social Media Handle]
 
-2. **Group 2:**
-   - **Name:** [Student 2]
-   - **Role:** [Role]
+2. **Student 2:**
+   - **Name:** Mr. Sarthak Bharne
+   - **Role:** Hardware Lead
    - **Social Media:** [Social Media Handle]
 
-3. **Group 3:**
-   - **Name:** [Student 3]
-   - **Role:** [Role]
+3. **Student 3:**
+   - **Name:** Mr. Sanskar Nagdive
+   - **Role:** Software Lead
    - **Social Media:** [Social Media Handle]
 
 4. **Group 4:**
-   - **Name:** [Student 4]
-   - **Role:** [Role]
+   - **Name:** Mr. Gaurav Awanke
+   - **Role:** Software Devloper
    - **Social Media:** [Social Media Handle]
 
-5. **Group 5:**
-   - **Name:** [Student 5]
-   - **Role:** [Role]
+5. **Student 5:**
+   - **Name:** Mr. Mayur Kogerkar
+   - **Role:** Supporter
    - **Social Media:** [Social Media Handle]
 
 ---
