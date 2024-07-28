@@ -74,7 +74,7 @@ For more information, collaborations, or inquiries, please reach out to us via o
 
 
 
-# Introduction to Imrabo
+<-- # Introduction to Imrabo
 
 **Project Name:** Imrabo
 
@@ -108,4 +108,4 @@ Join us on our journey as we bring Imrabo to life and push the boundaries of tec
 
 ---
 
-Feel free to customize the placeholders with actual names, roles, and social media handles.
+Feel free to customize the placeholders with actual names, roles, and social media handles. -->
