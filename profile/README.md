@@ -52,7 +52,7 @@ To create a groundbreaking project that not only meets academic standards but al
 4. **Group 4:**
    - **Name:** Mr. Gaurav Awanke
    - **Role:** Software Devloper
-   - **Social Media:** [Social Media Handle]
+   - **Social Media:** [LinkedIn](https://www.linkedin.com/in/iamgauravawanke)
 
 5. **Student 5:**
    - **Name:** Mr. Mayur Kogerkar
